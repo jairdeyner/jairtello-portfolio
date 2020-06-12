@@ -673,7 +673,7 @@ img {
 }
 
 .contact-item-list {
-  width: 50%;
+  width: 80%;
 }
 
 .contact-item {
@@ -681,8 +681,8 @@ img {
 }
 
 .social-networks.contact-networks {
-  justify-content: flex-start;
-  gap: 2rem;
+  justify-content: space-between;
+  width: 240px;
 }
 
 .social-networks.contact-networks .jam {
@@ -820,7 +820,7 @@ img {
   }
 
   .social-networks.contact-networks {
-    justify-content: center;
+    margin: 0 auto;
   }
 }
 
